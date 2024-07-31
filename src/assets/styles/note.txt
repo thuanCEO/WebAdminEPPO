@@ -1,1 +1,2 @@
-# Xử lý xác thực và quản lý phiên làm việc
+# scss cho từng trang dùng trong page
+# scss cho layout dùng trong layout
