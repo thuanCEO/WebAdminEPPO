@@ -1,1 +1,1 @@
-# Xử lý xác thực và quản lý phiên làm việc
+# Tạo biến để kết nối giữa api và web
