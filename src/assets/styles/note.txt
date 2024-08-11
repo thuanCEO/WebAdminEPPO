@@ -1,2 +1,0 @@
-# scss cho từng trang dùng trong page
-# scss cho layout dùng trong layout

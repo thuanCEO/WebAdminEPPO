@@ -6,8 +6,8 @@ import {
   Navigate,
 } from "react-router-dom";
 
-import Login from "../src/components/containers/signin/signinPage";
-import Register from "../src/components/containers/signup/signupPage";
+import Login from "./components/containers/login/signin/signinPage.js";
+import Register from "./components/containers/login/signup/signupPage.js";
 export default function App() {
   return (
     <Router>
